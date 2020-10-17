@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**shruti1421/shruti1421** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m Smriti Naik,
 
-Here are some ideas to get you started:
+Pursuing BTech in Computer Science and Engineering at IIIT Bhubaneswar. I love to learn and explore new things every day especially, related to technology. Till now, I've mastered all concepts related to frontend development like HTML, CSS, JavaScript, jQuery and also I have learned SQL. Instead of this, I have recently started doing competitive programming. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+At my free time, I do drawing and dancing. 
+
+Just started doing open sourcing and learning new things from it every day.
+
+📫 How to reach me: 
+LinkedIn : https://www.linkedin.com/in/smriti-naik-a0067a1a5/
+
+
+
+
