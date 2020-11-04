@@ -9,7 +9,10 @@ At my free time, I do drawing and dancing.
 Just started doing open sourcing and learning new things from it every day.
 
 📫 How to reach me: 
-LinkedIn : https://www.linkedin.com/in/smriti-naik-a0067a1a5/
+- LinkedIn : https://www.linkedin.com/in/smriti-naik-a0067a1a5/
+- <a href="https://dev.to/shruti1421">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Smriti Naik's DEV Profile" height="30" width="30">
+</a>
 
 
 
