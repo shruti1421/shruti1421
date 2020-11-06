@@ -2,7 +2,7 @@
 
 I’m Smriti Naik,
 
-Pursuing BTech in Computer Science and Engineering at IIIT Bhubaneswar. I love to learn and explore new things every day especially, related to technology. Till now, I've mastered all concepts related to frontend development like HTML, CSS, JavaScript, jQuery and I have also learned SQL. Instead of this, I have recently started doing competitive programming. 
+Pursuing BTech in Computer Science and Engineering at IIIT Bhubaneswar. I love to learn and explore new things every day especially, related to technology. Till now, I've mastered all concepts related to frontend development like HTML, CSS, JavaScript, jQuery and I have learned SQL also. Instead of this, I have recently started doing competitive programming. 
 
 At my free time, I do drawing and dancing. 
 
