@@ -10,7 +10,7 @@ At my free time, I do drawing and dancing.
  
 
 
-![](https://komarev.com/ghpvc/?username=shruti1421)
+
 
 📫 How to reach me: 
 
