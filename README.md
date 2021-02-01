@@ -7,11 +7,13 @@
  
  <img align="right" width="50%" src="./female developer 2.svg" height="200px" width="200px">
  
-Pursuing BTech in Computer Science and Engineering at IIIT Bhubaneswar. I love to learn and explore new things every day especially, related to technology. Till now, I've mastered all concepts related to frontend development like HTML, CSS, JavaScript, jQuery and I have learned SQL also. Instead of this, I have recently started doing competitive programming.
+- 🌱 CSE Sophomore at IIIT Bhubaneswar
+- 🔭 I’m currently getting my grip on Competitive Coding and Open Source
+- 🥅 2021 Goals: Expertise in web development (Frontend & Backend), contribute to Open Source projects.
+- ⚡ Facts about me: I love dancing and I like to design and watch movies!
+- 😄 Pronouns: She/Her/Bro
 
-At my free time, I do drawing and dancing. 
-
-
+</br>
 
 📫 How to reach me: 
 
