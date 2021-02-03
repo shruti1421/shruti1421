@@ -2,7 +2,7 @@
 
 
 
-<h3 align="center"> Hi 👋, I'm <a href=" https://smriti-naik-portfolio.netlify.app/">Smriti Naik</a> <h3>
+## Hi 👋, I'm ![Smriti Naik](https://smriti-naik-portfolio.netlify.app/)
  <br  />
 	
 	
