@@ -8,7 +8,7 @@
 	
  <img align="right" width="50%" src="./female developer 2.svg" height="300px" width="300px">
  
-###### 🌱 CSE Sophomore at IIIT Bhubaneswar
+###### 🌱 Pre-final year student at IIIT Bhubaneswar
 ###### 🔭 I’m currently getting my grip on Competitive Coding and Open Source
 ###### 🥅 2021 Goals: Expertise in web development (Frontend & Backend), contribute to Open Source projects.
 ###### ⚡ Facts about me: I love dancing and I like to design and watch movies!
