@@ -10,7 +10,7 @@
  
 ###### 🌱 Pre-final year student at IIIT Bhubaneswar
 ###### 🔭 I’m currently getting my grip on Competitive Coding and Open Source
-###### 🥅 2021 Goals: Expertise in web development (Frontend & Backend), contribute to Open Source projects.
+###### 🥅 2022 Goals: Expertise in Blockchain development and DSA.
 ###### ⚡ Facts about me: I love dancing and I like to design and watch movies!
 ###### 😄 Pronouns: She/Her/Bro
 
