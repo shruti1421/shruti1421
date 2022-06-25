@@ -2,7 +2,7 @@
 
 
 
-## Hi 👋, I'm [Smriti Naik](https://smriti-naik-portfolio.netlify.app/)
+## Hi 👋, I'm [Smriti Naik]
  <br  />
 
 	
