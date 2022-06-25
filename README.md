@@ -1,8 +1,7 @@
 
 
 
-
-## Hi 👋, I'm [Smriti Naik]
+## Hi 👋, I'm Smriti Naik
  <br  />
 
 	
