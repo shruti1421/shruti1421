@@ -17,10 +17,11 @@
 📫 How to reach me: 
 
 <p >
-	<a href="https://github.com/shruti1421"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/smriti-naik-a0067a1a5/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-	<a href="https://www.instagram.com/smritinaik1421/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
-	<a href="https://twitter.com/smritinaik2000"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/></a>
+	<h3 align="left">Connect with me:</h3>
+	<p align="left">
+	<a href="https://twitter.com/smritinaik1421" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ee_aman yadav" height="30" width="40" /></a>
+	<a href="https://www.linkedin.com/in/smriti-naik-a0067a1a5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aman yadav" height="30" width="40" /></a>
+	<a href="https://leetcode.com/smritinaik1421" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="amanyadav6750" height="30" width="40" /></a>
 </p>
 <br />
 
